@@ -20,3 +20,5 @@ add_lunch_combo full_e612-userdebug
 add_lunch_combo full_e612-eng
 add_lunch_combo cm_e612-eng
 add_lunch_combo cm_e612-userdebug
+add_lunch_combo omni_e612-eng
+add_lunch_combo omni_e612-userdebug
